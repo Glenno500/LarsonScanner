@@ -1,3 +1,4 @@
+// ADD A COMMENT
 #include <Adafruit_NeoPixel.h>
 
 // SETUP YOUR OUTPUT PIN AND NUMBER OF PIXELS
